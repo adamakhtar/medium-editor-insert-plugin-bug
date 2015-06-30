@@ -1,0 +1,8 @@
+{
+	"name": "medium scratch",
+	"dependencies": {
+		"medium-editor": "4.10.1",
+		"medium-editor-insert-plugin": "2.0.1"
+	}
+
+}
